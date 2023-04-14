@@ -1,0 +1,23 @@
+.navbar{
+    width: 100%;
+    background-color: #8A1AD5;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 297px;
+    height: 60px;
+    object-fit: cover;
+}
+.failed{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: #8A1AD5;
+}
